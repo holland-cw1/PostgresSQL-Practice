@@ -42,8 +42,6 @@ SCHEDULER(){
 
   echo "I have put you down for a $SERVICE at $SERVICE_TIME, $NAME."
 
-
-  
 }
 
 MAIN_MENU 
